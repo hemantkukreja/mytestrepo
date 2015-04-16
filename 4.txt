@@ -1,0 +1,1 @@
+file named 4.txt in master branch after 2nd commit in featureX branch after merge commit
