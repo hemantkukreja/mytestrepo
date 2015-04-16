@@ -1,1 +1,2 @@
 this being the second file
+change in 2.txt after first commit on master branch
